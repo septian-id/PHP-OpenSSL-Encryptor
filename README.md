@@ -1,4 +1,4 @@
-# PHP-Openssl-Encryptor
+# PHP-OpenSSL-Encryptor
 
 Example
 
